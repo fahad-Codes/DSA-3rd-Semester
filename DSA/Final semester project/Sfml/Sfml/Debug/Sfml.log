@@ -1,0 +1,2 @@
+﻿  Sfml.cpp
+F:\University\DSA\Final semester project\Sfml\Sfml\Sfml.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

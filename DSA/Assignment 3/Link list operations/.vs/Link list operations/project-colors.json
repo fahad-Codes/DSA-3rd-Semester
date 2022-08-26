@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74c6f586-314d-4513-9ff5-bea54b6caf94": {
+      "ProjectGuid": "74c6f586-314d-4513-9ff5-bea54b6caf94",
+      "DisplayName": "Link list operations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

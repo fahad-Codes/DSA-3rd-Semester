@@ -1,0 +1,2 @@
+F:\University\DSA\Final semester project\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.AssemblyReference.cache
+F:\University\DSA\Final semester project\CppWinFormsApp1\CppWinFormsApp1\x64\Debug\CppWinFormsApp1.vcxproj.SuggestedBindingRedirects.cache
