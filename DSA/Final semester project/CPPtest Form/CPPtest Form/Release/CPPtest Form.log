@@ -1,7 +1,0 @@
-﻿  MyForm.cpp
-F:\University\DSA\Final semester project\CPPtest Form\CPPtest Form\MyForm.cpp(8,11): error C2976: 'std::array': too few template arguments
-C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.32.31326\include\utility(480): message : see declaration of 'std::array'
-F:\University\DSA\Final semester project\CPPtest Form\CPPtest Form\MyForm.cpp(8,31): error C3699: '^': cannot use this indirection on type 'std::array'
-F:\University\DSA\Final semester project\CPPtest Form\CPPtest Form\MyForm.cpp(8,31): message : compiler replacing '^' with '*' to continue parsing
-  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
-  Generating Code...
